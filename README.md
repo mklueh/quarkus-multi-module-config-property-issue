@@ -2,6 +2,10 @@
 
 This example is not functional and is meant to reproduce Issue https://github.com/quarkusio/quarkus/issues/8999
 
+#### Version
+
+* Quarkus 1.4.1.Final
+
 #### Issue
 
 running the tests leads to the following issue when the child module is included in the **application/build.gradle**
