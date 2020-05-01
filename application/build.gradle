@@ -9,8 +9,4 @@ dependencies {
      */
     implementation project(":common-base")
 
-
-    implementation "io.quarkus:quarkus-scheduler"
-    implementation "io.quarkus:quarkus-rest-client"
-
 }
