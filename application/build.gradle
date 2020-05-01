@@ -1,0 +1,16 @@
+plugins {
+    id 'io.quarkus'
+}
+
+dependencies {
+    /**
+     * Comment this out to make the tests working
+     * //implementation project(":common-base")
+     */
+    implementation project(":common-base")
+
+
+    implementation "io.quarkus:quarkus-scheduler"
+    implementation "io.quarkus:quarkus-rest-client"
+
+}
