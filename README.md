@@ -1,6 +1,6 @@
 # Multi-Module Quarkus Reproducer for DeploymentException: No config value of type [java.lang.String] exists for
 
-This example is not functional and is meant to reproduce Issue https://github.com/quarkusio/quarkus/issues/8061
+This example is not functional and is meant to reproduce Issue https://github.com/quarkusio/quarkus/issues/8999
 
 #### Issue
 
