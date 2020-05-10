@@ -14,7 +14,7 @@ dependencies {
      *
      *  to make the tests working
      */
-    implementation project(":common-base")
+    implementation project(":common-one")
 
 
     implementation "io.quarkus:quarkus-scheduler"

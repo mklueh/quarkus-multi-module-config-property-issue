@@ -13,5 +13,6 @@ pluginManagement {
 rootProject.name = 'quarkus-multi-module-config-property-issue'
 
 include ':common-base'
+include ':common-one'
 include ':application'
 
