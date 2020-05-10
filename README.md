@@ -8,7 +8,8 @@ This example is not functional and is meant to reproduce Issue https://github.co
 
 #### Issue
 
-running the tests leads to the following issue when the child module is included in the **application/build.gradle**
+running the tests leads to the following issue when the child module is included in the **application/build.gradle**, but also
+related to the application.properties file that is contained in **application/test/resources**
 
 ```
 

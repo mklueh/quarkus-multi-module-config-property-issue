@@ -4,8 +4,15 @@ plugins {
 
 dependencies {
     /**
-     * Comment this out to make the tests working
+     * Comment this out
+     *
      * //implementation project(":common-base")
+     *
+     * or remove
+     *
+     * /test/resources/application.properties
+     *
+     *  to make the tests working
      */
     implementation project(":common-base")
 
