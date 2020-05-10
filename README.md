@@ -4,11 +4,11 @@ This example is not functional and is meant to reproduce Issue https://github.co
 
 #### Version
 
-* Quarkus 1.4.1.Final
+* Quarkus 1.4.2.Final
 
 #### Issue
 
-running the tests leads to the following issue when the child module is included in the **application/build.gradle**, but also
+running the tests and quarkusDev leads to the following issue when the child module is included in the **application/build.gradle**, but also
 related to the application.properties file that is contained in **application/test/resources**
 
 ```
